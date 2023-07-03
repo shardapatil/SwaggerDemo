@@ -8,3 +8,6 @@ GetAllEmployees:
 GetSingleEmployee:
 ![image](https://github.com/shardapatil/SwaggerDemo/assets/53011896/0be3cc45-23ff-424d-8711-9ef9f561d256)
 
+InsertEmployee:
+![image](https://github.com/shardapatil/SwaggerDemo/assets/53011896/5f352a7b-2d52-4aed-9da0-23f6021d2cdf)
+![image](https://github.com/shardapatil/SwaggerDemo/assets/53011896/dc181fba-a638-4388-93d9-ee797bee0e38)
